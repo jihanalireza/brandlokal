@@ -1,0 +1,3 @@
+[submodule "template1"]
+	path = template1
+	url = https://github.com/jihanalireza/templating.git
